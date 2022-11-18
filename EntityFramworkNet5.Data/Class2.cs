@@ -8,6 +8,6 @@ namespace EntityFramworkNet5.Data
 {
     internal class Class2
     {
-        public int ID2 { get; set; }
+        public int ID23 { get; set; }
     }
 }
